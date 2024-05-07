@@ -32,6 +32,9 @@
 
   ##
 
-  <H1>Badges</H1>
+<div>
+  <H2>Badges</H2>
+  <img align="center" alt="tiago-oracle-badge" height="190" width="200" src="https://github.com/tiagobahiense/tiagobahiense/blob/main/cms_files_10224_1671211139Prancheta_3.png" />
+</div>
  
 
