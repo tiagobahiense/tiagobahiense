@@ -6,7 +6,6 @@
 
 - 🔭 Hoje trabalho com back-end e analise de dados
 - 🌱 Estudante de engenharia de software - Unicesumar
-- 😄 Pronouns: ele/dele
 
   ##
 
