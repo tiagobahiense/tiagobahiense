@@ -9,8 +9,8 @@
 
   ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagobahiense&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobahiense&layout=donut&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagobahiense&theme=aura&show_icons=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobahiense&layout=donut&theme=aura&locale=pt-br)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="tiago-java" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
