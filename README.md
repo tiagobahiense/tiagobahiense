@@ -1,10 +1,8 @@
 ## Olá! Me chamo Tiago Bahiense
 
-👨‍💻 Estudante de Engenharia de Software e entusiasta em análise de dados. Atualmente focado em Java com Spring no bootcamp da Alura + Oracle.
-
+👨‍💻 Estudante de Engenharia de Software e desenvolvimento Fullstack.
 ##
 
-- 🔭 Hoje trabalho com back-end e analise de dados
 - 🌱 Estudante de engenharia de software - Unicesumar
 
   ##
